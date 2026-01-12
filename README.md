@@ -1,13 +1,12 @@
 # Hi there 👋, I'm Debi Prasad Das
-
-![Profile Banner](https://avatars.githubusercontent.com/u/173123617?v=4)) <!-- Optional, replace with a banner if you want -->
+<!-- Optional, replace with a banner if you want -->
 
 ## About Me
 - 🔭 I’m currently working on Android and Web projects.
 - 🌱 I’m learning Spring Boot, Docker, Kubernetes, Firebase, AWS, and the MERN stack.
 - 💻 Passionate about building real-world applications and contributing to open-source.
 - 👯 I’m looking to collaborate on interesting projects.
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](dddebiprasaddas2004@gmail.com)
 - 🏫 Student | Cloud & Android Enthusiast | Tech Explorer
 
 ---
