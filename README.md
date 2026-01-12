@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Debi Prasad Das
 
-![Profile Banner]([https://user-images.githubusercontent.com/11111111/your-image.png](https://avatars.githubusercontent.com/u/173123617?v=4)) <!-- Optional, replace with a banner if you want -->
+![Profile Banner](https://avatars.githubusercontent.com/u/173123617?v=4)) <!-- Optional, replace with a banner if you want -->
 
 ## About Me
 - 🔭 I’m currently working on Android and Web projects.
