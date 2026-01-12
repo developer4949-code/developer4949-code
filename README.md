@@ -85,10 +85,11 @@
 - [User Images](https://github.com/developer4949-code/user_images) - Image handling project in Java.
 
 ## 📊 GitHub Stats
-![Debi's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer4949-code&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer4949-code&layout=compact&theme=radical)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=developer4949-code&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer4949-code&layout=compact&theme=radical" width="45%" />
+</p>
 
----
 
 ## 🎯 Fun Facts
 - 🕹️ I love coding games and building Android apps.
