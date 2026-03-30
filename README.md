@@ -84,11 +84,39 @@
 
 ---
 
-## 🌟 Open Source  
+## 🧩 Open Source Contributions  
 
-- 🔧 Active contributor in **Checkstyle**
-- 📦 Working on **JSON Schema tooling (GSoC track)**
-- 🧠 Strong focus on **clean code & documentation improvements**
+### 🔥 Checkstyle Contributions  
+
+![PRs](https://img.shields.io/badge/Merged%20PRs-4-brightgreen?style=for-the-badge&logo=github)
+
+<details>
+<summary>📂 Click to view merged pull requests</summary>
+
+<br>
+
+- https://github.com/checkstyle/checkstyle/pull/19469  
+- https://github.com/checkstyle/checkstyle/pull/19446  
+- https://github.com/checkstyle/checkstyle/pull/19402  
+- https://github.com/checkstyle/checkstyle/pull/19375  
+
+</details>
+
+---
+
+### 🚧 Ongoing Contributions  
+
+![Active PRs](https://img.shields.io/badge/Active%20PRs-2-blue?style=for-the-badge&logo=github)
+
+<details>
+<summary>📂 Click to view active pull requests</summary>
+
+<br>
+
+- https://github.com/checkstyle/checkstyle/pull/19416  
+- https://github.com/sourcemeta/jsonschema/pull/698  
+
+</details>
 
 ---
 
