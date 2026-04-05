@@ -97,7 +97,9 @@
 - https://github.com/checkstyle/checkstyle/pull/19469  
 - https://github.com/checkstyle/checkstyle/pull/19446  
 - https://github.com/checkstyle/checkstyle/pull/19402  
-- https://github.com/checkstyle/checkstyle/pull/19375  
+- https://github.com/checkstyle/checkstyle/pull/19375
+- https://github.com/checkstyle/checkstyle/pull/19596
+- https://github.com/checkstyle/checkstyle/pull/19416
 
 </details>
 
