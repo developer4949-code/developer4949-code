@@ -567,7 +567,6 @@ Future
 - ✅ Learn Redis & Kafka
 - ✅ Build Microservices
 - ✅ Contribute 100+ Open Source PRs
-- ✅ Crack Google Summer of Code
 - ✅ Publish technical blogs
 - ✅ Land a Software Engineering Internship
 - ✅ Master Low Level Design
