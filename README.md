@@ -1,28 +1,42 @@
 <div align="center">
-<img
-  src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000024d472089be57aae244e0f46&ts=495279&p=fs&cid=1&sig=496c23967b453fa4badbdf7c4a228801999948bbfc98214712bb9d529a93da01&v=0"
-  width="280"
-  alt="Debi Prasad Das"
-/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=100000&color=00C4FF&center=true&vCenter=true&repeat=false&width=700&lines=Debi+Prasad+Das" alt="Debi Prasad Das"/>
 
-<br>
+  <!-- Profile Picture -->
+  <img
+    src="https://raw.githubusercontent.com/developer4949-code/developer4949-code/main/profile%20(3).png"
+    width="280"
+    alt="Debi Prasad Das"
+  />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Android+Developer;Backend+Engineer+%7C+Cloud+Enthusiast;Open+Source+Contributor;Spring+Boot+%7C+AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+Systems+Every+Day;Gen+AI+%7C+Agentic+AI" alt="Typing SVG"/>
+  <!-- Name -->
+  <h1>
+    <a href="https://github.com/developer4949-code">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=4000&pause=100000&color=00C4FF&center=true&vCenter=true&repeat=false&width=450&lines=Debi+Prasad+Das"
+        alt="Debi Prasad Das"
+      />
+    </a>
+  </h1>
 
-<br><br>
+  <br/>
 
-<img src="https://komarev.com/ghpvc/?username=developer4949-code&label=Profile+Views&style=for-the-badge&color=0E75B6"/>
+  <!-- Professional Title -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=36BCF7&center=true&vCenter=true&width=760&lines=Software+Engineer+%C2%B7+Android+Developer;Backend+Engineer+%C2%B7+Cloud+Enthusiast;Spring+Boot+%C2%B7+AWS+%C2%B7+Docker+%C2%B7+Kubernetes;Building+Scalable+Systems+Every+Day;GenAI+%C2%B7+Agentic+AI;Open+Source+Contributor"
+    alt="Typing SVG"
+  />
 
-<img src="https://img.shields.io/github/followers/developer4949-code?style=for-the-badge&color=blue&label=Followers"/>
+  <br/><br/>
 
-<img src="https://img.shields.io/github/stars/developer4949-code?style=for-the-badge&color=yellow&label=Total+Stars"/>
+  <!-- Badges -->
+  <img src="https://komarev.com/ghpvc/?username=developer4949-code&label=Profile+Views&style=for-the-badge&color=0E75B6"/>
 
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/developer4949-code?style=for-the-badge&label=Followers&color=0E75B6"/>
+
+  <img src="https://img.shields.io/github/stars/developer4949-code?style=for-the-badge&label=Total+Stars&color=F7C331"/>
+
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
 
 </div>
-
----
 
 # 👋 About Me
 
