@@ -1,12 +1,5 @@
 <div align="center">
 
-  <!-- Profile Picture -->
-  <img
-    src="https://raw.githubusercontent.com/developer4949-code/developer4949-code/main/profile%20(3).png"
-    width="280"
-    alt="Debi Prasad Das"
-  />
-
   <!-- Name -->
   <h1>
     <a href="https://github.com/developer4949-code">
